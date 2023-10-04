@@ -1,4 +1,4 @@
 # Alambardar
 Practice programs
 ## Author
-Magfur Athar
+[Magfur Athar](https://github.com/MagfurAthar)
